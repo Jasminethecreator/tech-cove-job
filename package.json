@@ -7,6 +7,6 @@
   },
   "scripts": {
     "dev": "live-server",
-    "build-css": "npx tailwindcss-cli@latest build src/style.css -o dist/style.css"
+    "build-css": "npx tailwindcss-cli@latest build src/style.css -o dist/tailwind.css"
   }
 }
