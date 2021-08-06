@@ -2,34 +2,87 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="dist/style.css">
+    <title>The Tech Cove</title>
+  <link rel="stylesheet" href="dist/tailwind.css">
 
 </head>
-<body class="bg-pink-50">
-<!-- Nav bar; logo, resource link saved jobs logout-->
-<nav class=" z-50 fixed top-0 flex flex-col text-center sm:flex-row sm:text-left sm:justify-between py-4 px-6 bg-gray-900 shadow sm:items-baseline w-full">
-    <div class="mb-2 sm:mb-0">
-        <a href="" class="text-2xl no-underline text-4xl text-white">The Creative Cove </a>
+<body>
 
-    </div>
+<!-- Login page for Tech Cove.io-->
 
-    <div class="text-white m-5 flex">
-        <a href="" class="text-lg no-underline  ml-5">about us</a>
-        <a href="" class="text-lg no-underline  ml-5">resources</a>
-        <a href="" class="text-lg no-underline  ml-5">saved jobs</a>
-        <a href="" class="text-lg no-underline ml-5">logout</a>
-    </div>
-</nav>
-<!-- end of the Nav bar; logo, resource link saved jobs logout-->
+<!--left side of login: Image & tittle-->
 
-<main class="main-header">
-    <div class="relative block" style="height: 870px;">
-        <div class="absolute top-0 w-full h-full bg-center bg-cover" style='background-image: url( "Images/header.jpeg");'></div>
+<div class="relative min-h-screen flex ">
+  <div class="flex flex-col sm:flex-row items-center md:items-start sm:justify-center md:justify-start flex-auto min-w-0 bg-white">
+    <div class="sm:w-1/2 xl:w-3/5 h-full hidden md:flex flex-auto items-center justify-center p-10 overflow-hidden  text-white bg-no-repeat bg-cover relative"
+         style="background-image: url(images/login-image.jpg);">
+
+      <div class="w-full  max-w z-10 mb-48  ">
+        <div class="text-black bg-white bg-opacity-50 text-4xl font-bold mb-3 p-8">Massachusetts job platform for tech and creative roles. </div>
+
+      </div>
     </div>
-</main>
-<!--header image-->
-<!--<img class="obje</body>
+<!--right side of login: Tittle & user login-->
+
+    <div class="md:flex md:items-center md:justify-center w-full sm:w-auto md:h-full w-5/6 xl:w-2/5 p-8  md:p-10 lg:p-14 sm:rounded-lg md:rounded-none bg-white">
+      <div class="max-w-md w-full space-y-20">
+        <div class="text-center">
+          <h2 class="mt-6 text-4xl font-bold text-gray-900">
+            The Tech Cove.
+          </h2>
+          <p class="mt-2 text-sm text-gray-500">Please sign in to your account</p>
+        </div>
+
+<!--start of form-->
+        <form id="login-from"  onsubmit="return checkInput()" action="index.html" class="mt-8 space-y-6"  method="POST">
+          <input type="hidden" name="remember" value="true">
+          <div class="relative">
+            <div class="absolute right-3 mt-4">
+
+            </div>
+<!-- login username input-->
+            <label class="ml-3 text-sm font-bold text-gray-700 tracking-wide">Username</label>
+            <input id="username" class=" w-full  px-4 py-2 border-b  " type="text" placeholder="Enter your username">
+          </div>
+<!-- login password input-->
+
+          <div class="mt-8 content-center">
+            <label class="ml-3 text-sm font-bold text-gray-700 tracking-wide">Password</label>
+            <input id="password" class="w-full  px-4 py-2 border-b " type="password" placeholder="Enter your password" value="">
+          </div>
+          <div class="flex items-center justify-between">
+            <div class="flex items-center">
+              <input id="remember_me" name="remember_me" type="checkbox" class="h-4 w-4 bg-blue-500 focus:ring-blue-400 border-gray-300 rounded">
+              <label for="remember_me" class="ml-2 block text-sm text-gray-900">
+                Remember me
+              </label>
+            </div>
+            <div class="text-sm"> <a href="#" class="text-gray-900">
+                Forgot your password?
+              </a>
+            </div>
+          </div>
+          <div>
+            <button id="login-button" type="submit" class="w-full flex justify-center bg-yellow-600 text-white font-extrabold text-lg px-6 py-3  tracking-wide font-semibold  shadow-lg ">
+              Sign in
+            </button>
+
+          </div>
+          <p class="flex flex-col items-center justify-center mt-10 text-center text-md text-gray-500">
+            <span>Don't have an account?</span>
+            <a href="#" class="text-gray-900 hover:text-blue-500 no-underline hover:underline cursor-pointer transition ease-in duration-300">Sign
+              up</a>
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End  of login form-->
+
+<script src="login.js"></script>
+</body>
+</html>
 
 
 
