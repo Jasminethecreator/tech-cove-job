@@ -2,7 +2,7 @@
  v2.0 (Individual Deliverables)
 
 
-<img width="851" alt="Screen Shot 2021-08-06 at 8 18 24 PM" src="https://user-images.githubusercontent.com/82053164/128581685-a57a4b46-1799-4c77-9c0f-1425123a2388.png">
+<img width="843" alt="Screen Shot 2021-08-06 at 8 20 26 PM" src="https://user-images.githubusercontent.com/82053164/128581716-3410ca18-97ed-40eb-91ab-4b5c17b6416d.png">
 
 # Solution statement:
 
