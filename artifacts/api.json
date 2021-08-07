@@ -1,0 +1,310 @@
+{
+      "latitude":42.265591,
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUNnQ054UDM2eEdQcFdyRXZFS3RWdyIsImkiOiIyMzA0NzQyNzgwIn0.3bKW4BiF-BPFWRyiSjtXHiirMZ7y5q1CmrR17i1s8AA",
+      "location":{
+         "display_name":"Easthampton, Hampshire County",
+         "__CLASS__":"Adzuna::API::Response::Location",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Hampshire County",
+            "Easthampton"
+         ]
+      },
+      "salary_is_predicted":"0",
+      "redirect_url":"https://www.adzuna.com/land/ad/2304742780?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=C644FEF0BAA5B1D7E3810B03C5B5B27BEFF600AB",
+      "description":"Summary Tech180 - a fast-growing tech startup based in Easthampton MA - is looking for a motivated and versatile Electrical Design Engineer to assist in the design of our rapidly expanding product portfolio. Our innovative solutions in simulation and test help companies rapidly develop safety-critical control systems for vehicles like aircraft and spacecraft. These industries are growing, and we are expanding as we gain new opportunities. The Electrical Design Engineer will work within a small …",
+      "title":"Electrical Design Engineer",
+      "created":"2021-07-07T17:49:23Z",
+      "company":{
+         "display_name":"Tech180",
+         "__CLASS__":"Adzuna::API::Response::Company"
+      },
+      "id":"2304742780",
+      "category":{
+         "label":"Engineering Jobs",
+         "tag":"engineering-jobs",
+         "__CLASS__":"Adzuna::API::Response::Category"
+      },
+      "longitude":-72.680487,
+      "__CLASS__":"Adzuna::API::Response::Job"
+   },
+   {
+      "latitude":42.33696,
+      "title":"Analog Design Engineer",
+      "description":"Overview Lightmatter builds chips for artificial intelligence computing. Our architecture leverages unique properties of light to enable fast and efficient inference and training engines. If you are a collaborative engineer with a passion for innovation, solving challenging technical problems, and doing impactful workwork like building the world's first optical computers, consider joining the team at Lightmatter Please note, this role is open in our San Francisco Bay Area office, Boston HQ, or …",
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMzMTQwNTczOSIsInMiOiJFQ2dDTnhQMzZ4R1BwV3JFdkVLdFZ3In0.Z-ojCkK5vbRc5HhvO0iVFiCjET4nY8txkZtooeRDO80",
+      "salary_is_predicted":"0",
+      "redirect_url":"https://www.adzuna.com/land/ad/2331405739?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=DFC7CFDBB457A0053A5B67342ED54C849A4195C0",
+      "location":{
+         "display_name":"Suffolk County, Massachusetts",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Suffolk County"
+         ],
+         "__CLASS__":"Adzuna::API::Response::Location"
+      },
+      "created":"2021-07-20T17:51:32Z",
+      "company":{
+         "__CLASS__":"Adzuna::API::Response::Company",
+         "display_name":"Lightmatter"
+      },
+      "category":{
+         "label":"Engineering Jobs",
+         "tag":"engineering-jobs",
+         "__CLASS__":"Adzuna::API::Response::Category"
+      },
+      "id":"2331405739",
+      "__CLASS__":"Adzuna::API::Response::Job",
+      "longitude":-71.06376
+   },
+   {
+      "created":"2021-07-25T05:53:59Z",
+      "latitude":42.33696,
+      "title":"Photonics Design Engineer",
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUNnQ054UDM2eEdQcFdyRXZFS3RWdyIsImkiOiIyMzQwNjgwMjA5In0.xtNBtBTcDBAO8mZfUi3y5dNZhMYYHQFwkjwYEepYjWY",
+      "salary_is_predicted":"0",
+      "description":"Analog Photonics Overview Analog Photonics is a fast-growing silicon photonic technology startup. We use our proprietary silicon photonic platform to serve automotive, communications, consumer, and defense markets with innovative, chip-scale solutions. Job Description We are currently looking for a Photonics Design Engineer to join the optical phased array and LiDAR effort. The role will collaborate with a multi-disciplinary team of CMOS, LiDAR, and system designers to develop innovative chip-s…",
+      "location":{
+         "display_name":"Suffolk County, Massachusetts",
+         "__CLASS__":"Adzuna::API::Response::Location",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Suffolk County"
+         ]
+      },
+      "redirect_url":"https://www.adzuna.com/land/ad/2340680209?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=1D1996FDDEC66ED9CFB0A02A7AE0FCA68623A4F0",
+      "__CLASS__":"Adzuna::API::Response::Job",
+      "longitude":-71.06376,
+      "company":{
+         "__CLASS__":"Adzuna::API::Response::Company",
+         "display_name":"Analog Photonics"
+      },
+      "category":{
+         "label":"Engineering Jobs",
+         "__CLASS__":"Adzuna::API::Response::Category",
+         "tag":"engineering-jobs"
+      },
+      "id":"2340680209"
+   },
+   {
+      "company":{
+         "display_name":"Textron",
+         "__CLASS__":"Adzuna::API::Response::Company"
+      },
+      "category":{
+         "label":"Engineering Jobs",
+         "tag":"engineering-jobs",
+         "__CLASS__":"Adzuna::API::Response::Category"
+      },
+      "id":"2335410388",
+      "contract_time":"full_time",
+      "__CLASS__":"Adzuna::API::Response::Job",
+      "longitude":-71.172769,
+      "latitude":42.557799,
+      "title":"Electrical Design Engineer",
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRUNnQ054UDM2eEdQcFdyRXZFS3RWdyIsImkiOiIyMzM1NDEwMzg4In0.60abSic-w39UIXsduRG9318wC5ZieZFlDcwDjVShhYc",
+      "redirect_url":"https://www.adzuna.com/land/ad/2335410388?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=1424225BA0F0E8BA77AF9A1877BD0C62AB270709",
+      "salary_is_predicted":"0",
+      "location":{
+         "__CLASS__":"Adzuna::API::Response::Location",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Wilmington"
+         ],
+         "display_name":"Wilmington, Middlesex County"
+      },
+      "description":"Textron Systems is hiring for Electrical Engineers to support our Test Equipment Design efforts for a major Air Force program. Primary responsibilities include: Design, develop and document automated acceptance test equipment required for new and existing electronic products and assist with transition of this equipment to Production Test Engineering. Develop a set of testing requirements based on engineering design documentation and hardware. Develop functional test stations utilizing state of …",
+      "created":"2021-07-22T10:00:16Z"
+   },
+   {
+      "latitude":42.400469,
+      "title":"Senior Design Engineer",
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjI3ODk4MTM5MSIsInMiOiJFQ2dDTnhQMzZ4R1BwV3JFdkVLdFZ3In0.UTpsDMa3pszfWxCGTZEJmS2Cz0C_faiG0sUakrlcb4w",
+      "location":{
+         "display_name":"Waltham, Middlesex County",
+         "__CLASS__":"Adzuna::API::Response::Location",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Waltham"
+         ]
+      },
+      "salary_is_predicted":"0",
+      "redirect_url":"https://www.adzuna.com/land/ad/2278981391?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=969311277E97B9C66D750AE40585D4C2DB263A78",
+      "description":"COMPANY OVERVIEW BVI® is refocusing the future of vision. As one of the fastest-growing, diversified surgical ophthalmic businesses in the world, our purpose-built portfolio spans more than 115 countries. We’ve set our sights on touching the lives of millions of patients affected by conditions such as cataracts, refractive error, glaucoma, retinal disease, and dry eye. Unburdened by legacy or bureaucracy, we have developed our strategy around a simple concept — taking pride in delivering innova…",
+      "created":"2021-06-25T07:02:21Z",
+      "company":{
+         "display_name":"BVI Medical",
+         "__CLASS__":"Adzuna::API::Response::Company"
+      },
+      "category":{
+         "tag":"engineering-jobs",
+         "__CLASS__":"Adzuna::API::Response::Category",
+         "label":"Engineering Jobs"
+      },
+      "id":"2278981391",
+      "__CLASS__":"Adzuna::API::Response::Job",
+      "longitude":-71.257723
+   },
+   {
+      "latitude":42.33696,
+      "salary_is_predicted":"0",
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjM2NDU0NzQyNSIsInMiOiJFQ2dDTnhQMzZ4R1BwV3JFdkVLdFZ3In0.nzzzSvKIBAJz7BIok1k5CfJQjz_z1FRFoMqIIUEsO6A",
+      "location":{
+         "display_name":"Suffolk County, Massachusetts",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Suffolk County"
+         ],
+         "__CLASS__":"Adzuna::API::Response::Location"
+      },
+      "redirect_url":"https://www.adzuna.com/land/ad/2364547425?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=FDC78E56E23A392AA6903CFFBF62AF8BE94EE821",
+      "description":"This Jobot Job is hosted by Angela Trudeau Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume. Salary $100,000 - $160,000 per year A Bit About Us We're a full service mechanical, electrical, plumbing, fire protection design and engineering firm proudly serving New England for the past 75 years. Why join us? Full healthcare benefits 401(K) Match Generous PTO package Flextime Tuition Reimbursement bonus opportunities Job Details The Senior Electrical Engineer …",
+      "title":"Electrical Design Engineer",
+      "created":"2021-08-05T22:48:02Z",
+      "company":{
+         "__CLASS__":"Adzuna::API::Response::Company",
+         "display_name":"Jobot"
+      },
+      "id":"2364547425",
+      "category":{
+         "tag":"trade-construction-jobs",
+         "__CLASS__":"Adzuna::API::Response::Category",
+         "label":"Trade & Construction Jobs"
+      },
+      "longitude":-71.06376,
+      "__CLASS__":"Adzuna::API::Response::Job"
+   },
+   {
+      "company":{
+         "__CLASS__":"Adzuna::API::Response::Company",
+         "display_name":"Indigo Technologies"
+      },
+      "id":"2310740286",
+      "category":{
+         "label":"Engineering Jobs",
+         "__CLASS__":"Adzuna::API::Response::Category",
+         "tag":"engineering-jobs"
+      },
+      "longitude":-71.133074,
+      "__CLASS__":"Adzuna::API::Response::Job",
+      "latitude":42.488678,
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMxMDc0MDI4NiIsInMiOiJFQ2dDTnhQMzZ4R1BwV3JFdkVLdFZ3In0.VSCwsl7ZCZUa2mNJijcx7GUMUodPGnw9f1GiU_wdJvA",
+      "description":"Indigo Technologies, located in Woburn, Massachusetts, is looking for an experienced, motivated, hands-on mechatronics engineer to assist in the design of electric motors for robotics and transportation. This engineer will report to the Director of Powertrain Design and work with electrical and mechanical engineers to develop, test, and maintain Indigo Technologies’ proprietary propulsion and suspension system. Responsibilities Improve electric machine performance through better materials, mode…",
+      "salary_is_predicted":"0",
+      "location":{
+         "__CLASS__":"Adzuna::API::Response::Location",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Woburn"
+         ],
+         "display_name":"Woburn, Middlesex County"
+      },
+      "redirect_url":"https://www.adzuna.com/land/ad/2310740286?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=45947A173D84D73CEA14B5186137DF8ABD8F3E45",
+      "title":"Motor Design Engineer",
+      "created":"2021-07-10T15:46:36Z"
+   },
+   {
+      "company":{
+         "__CLASS__":"Adzuna::API::Response::Company",
+         "display_name":"Intel"
+      },
+      "id":"2340919653",
+      "category":{
+         "label":"Engineering Jobs",
+         "__CLASS__":"Adzuna::API::Response::Category",
+         "tag":"engineering-jobs"
+      },
+      "contract_time":"full_time",
+      "longitude":-71.558139,
+      "__CLASS__":"Adzuna::API::Response::Job",
+      "latitude":42.390804,
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjM0MDkxOTY1MyIsInMiOiJFQ2dDTnhQMzZ4R1BwV3JFdkVLdFZ3In0.3tpvC4oGo_-DxSbqTlUPwY7wMZdldqfU1LS63EYVDvk",
+      "salary_is_predicted":"0",
+      "description":"In this position, you will be working alongside a World-class SoC System on a Chip design team within the Silicon Engineering Group SEG delivering next-generation Xeon products and related IPs for Server markets. You will perform all aspects of the SoC design flow from high-level block design to synthesis, place and route, timing and power to create a design database that is ready for manufacturing. Your responsibilities will include but not be limited to: Block-level floor planning Logic synth…",
+      "redirect_url":"https://www.adzuna.com/land/ad/2340919653?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=8A83BA68865295C9418FE97B035FA72FC8BDB035",
+      "location":{
+         "display_name":"Hudson, Middlesex County",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Hudson"
+         ],
+         "__CLASS__":"Adzuna::API::Response::Location"
+      },
+      "title":"SoC Design Engineer",
+      "created":"2021-07-25T09:17:32Z"
+   },
+   {
+      "title":"FPGA Design Engineer",
+      "salary_is_predicted":"0",
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMyMzA4ODAyMSIsInMiOiJFQ2dDTnhQMzZ4R1BwV3JFdkVLdFZ3In0.2W4CJSCW7MpGDzIZ0ZbLv1Vg2sswUeBBcqLYkidLowM",
+      "location":{
+         "__CLASS__":"Adzuna::API::Response::Location",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Cambridge"
+         ],
+         "display_name":"Cambridge, Middlesex County"
+      },
+      "description":"We are seeking a talented senior engineer to join the digital design team at Draper. The successful candidate will contribute to FPGA development including design, synthesis, verification, validation, test & support. Candidate must have experience using high level design, simulation and verification tools and be familiar with process flows supporting design and verification for digital FPGA efforts. Applicant should also be familiar with embedded software development for FPGA SoCs. Preference w…",
+      "redirect_url":"https://www.adzuna.com/land/ad/2323088021?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=D7ED1D49CAAA63B8DA971274005BB20F640FE671",
+      "latitude":42.378296,
+      "created":"2021-07-16T17:04:26Z",
+      "category":{
+         "label":"Engineering Jobs",
+         "__CLASS__":"Adzuna::API::Response::Category",
+         "tag":"engineering-jobs"
+      },
+      "id":"2323088021",
+      "company":{
+         "display_name":"Draper Laboratory",
+         "__CLASS__":"Adzuna::API::Response::Company"
+      },
+      "__CLASS__":"Adzuna::API::Response::Job",
+      "longitude":-71.130446,
+      "contract_time":"full_time"
+   },
+   {
+      "latitude":42.48774,
+      "location":{
+         "display_name":"Boxborough, Middlesex County",
+         "__CLASS__":"Adzuna::API::Response::Location",
+         "area":[
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Boxborough"
+         ]
+      },
+      "adref":"eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMyNDc5MjU2NCIsInMiOiJFQ2dDTnhQMzZ4R1BwV3JFdkVLdFZ3In0.z4V6Rbrc2yjnXV8VR1lZnzj3aBJmmAtmSYkxbT6ip9Q",
+      "salary_is_predicted":"0",
+      "redirect_url":"https://www.adzuna.com/land/ad/2324792564?se=ECgCNxP36xGPpWrEvEKtVw&utm_medium=api&utm_source=26e3f636&v=7B2AEDD6BE7FA03AC1B0B83725EDB05851D177E4",
+      "description":"What You Do At AMD Changes Everything At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center. Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people…",
+      "title":"RTL Design Engineer",
+      "created":"2021-07-17T09:59:50Z",
+      "company":{
+         "display_name":"AMD",
+         "__CLASS__":"Adzuna::API::Response::Company"
+      },
+      "id":"2324792564",
+      "category":{
+         "label":"Engineering Jobs",
+         "tag":"engineering-jobs",
+         "__CLASS__":"Adzuna::API::Response::Category"
+      },
+      "longitude":-71.51844,
+      "__CLASS__":"Adzuna::API::Response::Job"
+   }
