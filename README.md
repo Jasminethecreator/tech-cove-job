@@ -2,7 +2,7 @@
 
 
 
-![Sprint demo project](https://user-images.githubusercontent.com/82053164/126848913-790e0a6e-b477-49a7-b4c0-9e13eaef4683.png)
+<img width="843" alt="Screen Shot 2021-08-06 at 8 20 26 PM" src="https://user-images.githubusercontent.com/82053164/128594733-7223c24a-6b81-49fe-9e77-98f8e951d602.png">
 
 # Solution statement:
 
