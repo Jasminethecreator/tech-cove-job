@@ -6,14 +6,13 @@
 
 # Solution statement:
 
- Build a simple web app that shows the most recent jobs for software engineering jobs in the last 48 hours.
 
 These are their key use-cases:
 
-*As a job seeker, I want to see more jobs outside of Software Engineering
-*As a job seeker, I want to see the jobs by their respective categories 
-*As a job seeker, I want to be able to filter jobs (on page, not navigating elsewhere)
-*As a job seeker, I want to be able to mail a job to a friend (using `mailto:` is good enough)
+* As a job seeker, I want to see more jobs outside of Software Engineering
+* As a job seeker, I want to see the jobs by their respective categories 
+* As a job seeker, I want to be able to filter jobs (on page, not navigating elsewhere)
+* As a job seeker, I want to be able to mail a job to a friend (using `mailto:` is good enough)
 
 # Methods:
 ### Languages, Tools, Resources
