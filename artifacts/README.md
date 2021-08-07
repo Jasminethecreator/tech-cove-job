@@ -2,9 +2,7 @@
  v2.0 (Individual Deliverables)
 
 
-
-
-![Sprint demo project](https://user-images.githubusercontent.com/82053164/126848913-790e0a6e-b477-49a7-b4c0-9e13eaef4683.png)
+<img width="851" alt="Screen Shot 2021-08-06 at 8 18 24 PM" src="https://user-images.githubusercontent.com/82053164/128581685-a57a4b46-1799-4c77-9c0f-1425123a2388.png">
 
 # Solution statement:
 
@@ -32,4 +30,5 @@ These are their key use-cases:
 
 # Contribution to the solution:
 
-I used Jira to track what I needed to do for the project, created my wireframe in adobe xd. I then created the app interface with tailwindcss.When a use enters an input and submits for a job result, the information/api is displayed. I created functionality with javascript: I used ayscn/await funcation to fecth the data, event listnters and dom manipulation to have the job search results to display in the html file.  I was able to use paramters that specify the location to Massachestts and the job title of Software engineering. I  created variables where I used to to display the objects in the jobposting. 
+I used Jira to track what I needed to do for the project, used  my wireframe from sprint # I refactor my layout with tailwindcss .When a use enters an input and submits for a job result, the information/api is displayed. I created functionality with javascript: I used ayscn/await funcation to fecth the data, event listnters and dom manipulation to have the job search results to display in the html file.  I was able to use paramters that specify the location to Massachestts and the job title of Software engineering. I created variables where I used to to display the objects in the jobposting. created filters, job category, the ability to email the job posting, and go directly to the site to apply.<img width="851" alt="Screen Shot 2021-08-06 at 8 18 24 PM" src="https://user-images.githubusercontent.com/82053164/128581682-75f967c5-d08d-485c-bff0-5e3983aea120.png">
+
