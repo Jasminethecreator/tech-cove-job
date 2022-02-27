@@ -12,8 +12,8 @@ Massachsetts job platform for technology roles. Using adzuna.com job listing api
 
 ## **Design Tools**
 * Adobe xd 
-![low fidility mockup](TechCove1.png?raw=true)
-![low fidility mockup](TechCoveresults.png?raw=true)
+![low fidelity mockup](TechCove1.png?raw=true)
+![low fidelity mockup](TechCoveresults.png?raw=true)
 
 
 ## **Tech Stack**
