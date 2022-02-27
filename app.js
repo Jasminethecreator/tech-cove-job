@@ -11,31 +11,6 @@ const jobResultTag = document.querySelector('#job-result-tag')
 //filter sections
 const jobCategory = document.querySelector('#job-category')
 
-//event listener
-jobCategory.addEventListener('change',async function (){
-const jobOptions=jobCategory.value
-const apiData = await fechData(API_URL)
-    .then()
-
-
-    console.log(jobOptions);
-});
-
-
-
-//
-// // save job function
-// let saveButton = document.querySelector('#save-button');
-// saveButton.onclick=function (){
-//     let savedJob = searchInput.value;
-//     console.log(savedJob);
-//
-// }
-
-
-
-
-
 
 
 
@@ -88,22 +63,6 @@ searchForm.addEventListener('submit', async function (event) {
 })
 
 
-
-
-
-
-
-//
-// <div className = "p-4" >
-//     < div className = "flex items-center mr-4 mb-2" >
-//     < input type = "checkbox" id = "A3-yes" name = "A3-confirmation" value = "yes"
-// className = "opacity-0 absolute h-8 w-8" / >
-//     < div className = "bg-white border-2 rounded-md border-blue-400 w-8 h-8 flex flex-shrink-0 justify-center items-center mr-2 focus-within:border-blue-500" >
-//     <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M34 6H14c-2.21 0-3.98 1.79-3.98 4L10 42l14-6 14 6V10c0-2.21-1.79-4-4-4z"/><path d="M0 0h48v48H0z" fill="none"/></svg></p>
-// </div>
-// <label htmlFor="save-button" className="select-none">Saved job</label>
-// </div>
-// </div>
 
 
 
